@@ -18,3 +18,10 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
 </div>
+
+<br/>
+  
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeer-kr&layout=compact&theme=tokyonight)
+</div>
