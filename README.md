@@ -4,6 +4,7 @@
 <div align="center">
   <h2>🛠 Tech Stacks 🛠</h2>
 </div>
+<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=ffffff"/>
@@ -18,6 +19,7 @@
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
 
 <br/> 
+<br/>
 <br/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeer-kr&layout=compact&theme=tokyonight)
