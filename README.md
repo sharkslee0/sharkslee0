@@ -1,9 +1,8 @@
 <div align="center">
-🔥future FULLSTACK developer💻
+  <h1>🔥future FULLSTACK developer💻</h1>
 </div>
-<hr/>
 <div align="center">
-🛠 Tech Stacks 🛠
+  <h2>🛠 Tech Stacks 🛠</h2>
 </div>
 <br/>
 <div align="center">
