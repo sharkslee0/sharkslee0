@@ -6,7 +6,7 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff" href="#"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=ffffff"/>
