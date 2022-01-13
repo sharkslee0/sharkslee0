@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=Express&logoColor=ffffff"/>
 <br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
