@@ -1,6 +1,15 @@
 <div align="center">
-  <h1>🔥future FULLSTACK developer💻</h1>
+  <h1>🔥future FULLSTACK developer🌱</h1>
 </div>
+<div align="center">
+  <h2>💻 Environments 💻</h2>
+</div>
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/>
+</div>
+<br />
 <div align="center">
   <h2>🛠 Tech Stacks 🛠</h2>
 </div>
@@ -23,7 +32,7 @@
 <br/>
 <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeer-kr&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeer-kr&layout=compact&theme=dark)
 </div>
 
 
