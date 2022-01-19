@@ -24,10 +24,13 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=Pug&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
+<br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
 <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=ffffff"/>
   
