@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
 <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
