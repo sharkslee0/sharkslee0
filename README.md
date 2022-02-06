@@ -35,13 +35,3 @@
 <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff"/>
-  
-  
-<br/> 
-<br/>
-<br/>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeer-kr&layout=compact&theme=dark)
-</div>
-
-
