@@ -6,7 +6,7 @@
 </div>
 <br />
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=ffffff"/></a>
+  <a href="#" style="cursor:default;"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=ffffff"/></a>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff"/>
 </div>
 <br />
