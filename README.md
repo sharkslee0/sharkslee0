@@ -23,7 +23,7 @@
 <br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=Pug&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=Pug&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
