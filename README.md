@@ -1,14 +1,7 @@
 <div align="center">
   <h1>🔥future FULLSTACK developer🌱</h1>
 </div>
-<div align="center">
-  <h2>⌨ Environments 🖱</h2>
-</div>
-<br />
-<div align="center">
-  <a href="#" style="cursor:default;"><img style="cursor:default;" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=ffffff"/></a>
-  <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff"/></a>
-</div>
+
 <br />
 <div align="center">
   <h2>🛠 Tech Stacks 🛠</h2>
