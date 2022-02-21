@@ -32,7 +32,7 @@
 </div>
 <br/>
 <div align="center">
-  <h2>👋 Contact Me 📧</h2>
+  <h2>👉 Contact Me 👈</h2>
 </div>
 <div align="center">
   <a href="mailto:devcodeer@gmail.com" style="cursor:pointer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
