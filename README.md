@@ -16,7 +16,7 @@
   <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=ffffff"/></a>
   <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=ffffff"/></a>
   <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=ffffff"/></a>
-  <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=ffffff"/></a>
+  <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff"/></a>
   <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/express-000000?style=flat&logo=Express&logoColor=ffffff"/></a>
 <br/>
   <a href="#" style="cursor:default"><img style="cursor:default" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/></a>
