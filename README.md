@@ -35,6 +35,6 @@
   <h2>👉 Contact Me 👈</h2>
 </div>
 <div align="center">
-  <a href="mailto:devcodeer@gmail.com" style="cursor:pointer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
-  <a target="_blank" href="https://codeer-kr.github.io/" style="cursor:pointer" ><img target="_blank" src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+  <a href="mailto:bigoverhead@gmail.com" style="cursor:pointer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
+  <a target="_blank" href="https://bigoverhead.github.io/" style="cursor:pointer" ><img target="_blank" src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
 </div>
