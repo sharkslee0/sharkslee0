@@ -18,9 +18,9 @@
   </li>
   <li>
     <div>
-      <h3>Frameworks</h3>
+      <h3>Frameworks & Tools</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django" />
+        <img src="https://skillicons.dev/icons?i=tailwind,django" />
       </a>
     </div>
   </li>
