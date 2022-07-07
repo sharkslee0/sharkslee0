@@ -11,17 +11,13 @@
   <li>
     <div>
       <h3>Languages</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,py" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=html,css,js,py" />
     </div>
   </li>
   <li>
     <div>
       <h3>Frameworks & Tools</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tailwind,django" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=tailwind,django" />
     </div>
   </li>
 </ul>
