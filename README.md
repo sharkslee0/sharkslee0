@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1>👋 Welcome!</h1>
-  <img src="https://media.giphy.com/media/skMw9r8WsPZZ0MWyJP/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/skMw9r8WsPZZ0MWyJP/giphy.gif" width="50%">
 </div>
 
 <h2>🛠 Skills</h2>
