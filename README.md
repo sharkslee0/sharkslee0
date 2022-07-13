@@ -23,9 +23,8 @@
 </ul>
 
 <h2>💭 Problem Solving</h2>
-<div align="center">
+<div>
   <a href="https://solved.ac/profile/codeer"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codeer"></a>
-  <a href="https://solved.ac/profile/codeer"><img src="http://mazandi.herokuapp.com/api?handle=codeer&theme=dark"/></a>
 </div>
 
 <div align="center">
