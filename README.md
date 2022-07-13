@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1>👋 Welcome!</h1>
-  <img src="https://media.giphy.com/media/skMw9r8WsPZZ0MWyJP/giphy.gif" width="50%">
+  <img src="https://media.giphy.com/media/skMw9r8WsPZZ0MWyJP/giphy.gif" width="60%">
 </div>
 
 <h2>🛠 Skills</h2>
@@ -20,6 +20,11 @@
       <img src="https://skillicons.dev/icons?i=tailwind,django" />
     </div>
   </li>
+</ul>
+
+<h2>📚 Activity History</h2>
+<ul>
+  <li>2017.02 ~ : Sangmyung University, Computer Science</li>
 </ul>
 
 <h2>💭 Problem Solving</h2>
