@@ -11,7 +11,7 @@
   <li>
     <div>
       <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
     </div>
   </li>
   <li>
