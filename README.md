@@ -28,8 +28,8 @@
 
 <h2>📚 Activity History</h2>
 <ul>
-  <li><span>(2022) Boostcamp Web·Mobile 7th Challenge (Web Full-Stack course), NAVER Connect</span></li>
-  <li><span>(2017~) Computer Science, Sangmyung University</span></li>
+  <li><span>(2022.07~2022.08) Boostcamp Web·Mobile 7th Challenge (Web Full-Stack course), NAVER Connect</span></li>
+  <li><span>(2017.02~) Computer Science, Sangmyung University</span></li>
 </ul>
 
 <h2>💭 Problem Solving</h2>
