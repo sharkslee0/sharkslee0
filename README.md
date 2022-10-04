@@ -11,20 +11,8 @@
 </div>
 
 <h2>🛠 Skills</h2>
-<ul>
-  <li>
-    <div>
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
-    </div>
-  </li>
-  <li>
-    <div>
-      <h3>Frameworks & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=tailwind,django" />
-    </div>
-  </li>
-</ul>
+<div>
+</div>
 
 <h2>📚 Activity History</h2>
 <ul>
