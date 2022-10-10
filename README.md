@@ -16,12 +16,6 @@
 
 </div>
 
-<h2>📚 Activity History</h2>
-<ul>
-  <li><span>(2022.07~2022.08) Boostcamp Web·Mobile 7th Challenge (Web Full-Stack course), Naver Connect</span></li>
-  <li><span>(2017.02~) Computer Science, Sangmyung University</span></li>
-</ul>
-
 <h2>💭 Problem Solving</h2>
 <div>
   <a href="https://solved.ac/profile/codeer"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codeer"></a>
