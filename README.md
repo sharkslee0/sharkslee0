@@ -12,6 +12,8 @@
 
 <h2>🛠 Skills</h2>
 <div>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+
 </div>
 
 <h2>📚 Activity History</h2>
