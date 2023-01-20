@@ -14,10 +14,3 @@
     <img src="https://skillicons.dev/icons?i=java,spring" />
   </div>
 </div>
-
-<div>
-  <h2>💭 Problem Solving</h2>
-  <div>
-    <a href="https://solved.ac/profile/codeer"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codeer"></a>
-  </div>
-</div>
