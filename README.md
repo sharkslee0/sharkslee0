@@ -1,4 +1,2 @@
-안녕하세요. 백엔드 개발자 <b>이남곤</b>입니다.
-
-- [Blog](https://ng-lee.github.io/) | [Resume](https://ng-lee.notion.site/)
+- [Blog](https://ng-lee.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/namgonlee/)
