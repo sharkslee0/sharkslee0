@@ -1,2 +1,2 @@
-- [Blog](https://namgons.github.io/)
+- [Blog](https://dotpointing.tistory.com/)
 - [LinkedIn](https://www.linkedin.com/in/namgonlee/)
