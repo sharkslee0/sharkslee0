@@ -32,3 +32,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?&logo=GitLab&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
 </div>
 </details>
+
+<div align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamgons&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
