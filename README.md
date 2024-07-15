@@ -2,7 +2,7 @@
 
 ### More about me
 
-[Blog](https://dotpointing.tistory.com/) | [LinkedIn](https://www.linkedin.com/in/namgonlee) | [Resume](https://www.rallit.com/resumes/60218@loginonlyyy/%EC%9D%B4%EB%82%A8%EA%B3%A4)
+[Blog](https://namgons.github.io/) | [LinkedIn](https://www.linkedin.com/in/namgonlee) | [Resume](https://www.rallit.com/resumes/60218@loginonlyyy/%EC%9D%B4%EB%82%A8%EA%B3%A4)
 
 ### Experiences
 
